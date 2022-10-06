@@ -1,6 +1,6 @@
 # portfolio
 
-# Advanced CSS 
+# Advanced CSS
 
 Used advantace CSS properties such as flex-box and media queries to deploy a website portfolio. The portolio will provide a space to compile our work to easily showcase to future employers.
 
@@ -29,3 +29,9 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
+
+[Website]()
+
+![alt text](./assets/img/Screen%20Shot%202022-10-06%20at%205.07.58%20PM.png)
+![alt text](./assets/img/Screen%20Shot%202022-10-06%20at%205.08.11%20PM.png)
+![alt text](./assets/img/Screen%20Shot%202022-10-06%20at%205.08.19%20PM.png)
