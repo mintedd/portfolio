@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 # Advanced CSS
 
@@ -30,7 +30,7 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
-[Website]()
+[Website](https://mintedd.github.io/portfolio/)
 
 ![alt text](./assets/img/Screen%20Shot%202022-10-06%20at%205.07.58%20PM.png)
 ![alt text](./assets/img/Screen%20Shot%202022-10-06%20at%205.08.11%20PM.png)
